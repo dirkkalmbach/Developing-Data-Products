@@ -1,7 +1,7 @@
 Developing-Data-Products
 ========================
 
-This is my Repo for the final project of the coursera course *Developing Data Products* (part of the John Hopkins Data Science Spezialication): 
+This is my Repo for the final project of the coursera course *Developing Data Products* (part of the John Hopkins data science specialization): 
 
 Here you find my shiny app for the project, namely:
 - __ui.R__
